@@ -1,10 +1,10 @@
 {
-  "name": "superpowers-x",
+  "name": "Logan-AI-framework",
   "description": "Core skills library for Claude Code: TDD, debugging, collaboration patterns, and proven techniques",
   "version": "1.0.0",
   "author": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Logan & Pasan",
+    "email": "logan@example.com"
   },
   "homepage": "https://github.com/obra/superpowers",
   "repository": "https://github.com/obra/superpowers",
